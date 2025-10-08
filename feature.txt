@@ -1,0 +1,5 @@
+Tính năng: Dark Mode
+# Mô tả: Cho phép người dùng chuyển đổi giao diện ứng dụng sang chế độ tối.
+# Lợi ích: Giảm mỏi mắt, tiết kiệm pin.
+# Các module liên quan: CSS/Theme engine.
+# Tiến độ: Đang trong giai đoạn thử nghiệm.
