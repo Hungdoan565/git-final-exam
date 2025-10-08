@@ -11,3 +11,9 @@
 
     --Đẹp trai
     --Học giỏi
+
+ --Đi chợ
+ --Nấu cơm
+ --Giặt đồ
+ --Phận trai 12 bến nước
+
