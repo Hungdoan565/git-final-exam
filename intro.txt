@@ -1,4 +1,7 @@
- 'Hello, this is Doan Vinh Hung'
+'Hello, this is Doan Vinh Hung'
+ Conflict resolved on 08/10/2025
+ Xin chào, Tôi là Đoàn Vĩnh Hưng.
+ 
  Sinh viên năm cuối, ngành CNTT.
  Quê ở Đồng Tháp.
  Rất thích học lập trình và sử dụng Git.
