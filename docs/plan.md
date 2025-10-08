@@ -8,3 +8,6 @@
 - Thứ 6: Fix tính năng thống kê cho dự án digital-class.
 - Thứ 7: Ôn tập lý thuyết Python.
 - Chủ nhật: Nghỉ ngơi và chill.
+
+    --Đẹp trai
+    --Học giỏi
