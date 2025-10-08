@@ -1,0 +1,3 @@
+- Git là công cụ quản lý phiên bản mạnh mẽ.
+- Việc học Git giúp tôi làm việc nhóm hiệu quả hơn.
+- Tôi vẫn cần luyện tập thêm về các lệnh nâng cao.
