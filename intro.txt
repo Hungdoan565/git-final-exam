@@ -1,4 +1,4 @@
- Tôi là Đoàn Vĩnh Hưng.
+ Xin chào, Tôi là Đoàn Vĩnh Hưng.
  Sinh viên năm cuối, ngành CNTT.
  Quê ở Đồng Tháp.
  Rất thích học lập trình và sử dụng Git.
