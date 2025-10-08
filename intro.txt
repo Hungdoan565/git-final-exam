@@ -1,4 +1,4 @@
- Tôi là Đoàn Vĩnh Hưng.
+ 'Hello, this is Doan Vinh Hung'
  Sinh viên năm cuối, ngành CNTT.
  Quê ở Đồng Tháp.
  Rất thích học lập trình và sử dụng Git.
